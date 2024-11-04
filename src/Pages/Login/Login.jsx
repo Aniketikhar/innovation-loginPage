@@ -70,7 +70,7 @@ const Login = () => {
               Sign up
             </button>
           </div>
-          <footer className="mt-24 text-white text-xl font-medium">
+          <footer className="mt-12 text-white text-xl font-medium">
             Innovation Hacks AI
           </footer>
         </main>

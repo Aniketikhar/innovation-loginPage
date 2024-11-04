@@ -1,0 +1,26 @@
+#loginBody {
+  background-color: #02031c;
+}
+
+#login {
+  background: url("/public/bgImage.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  height: 80px;
+  width: 80px !important;
+}
+
+input {
+  background: rgb(71, 73, 86);
+  background: linear-gradient(
+    90deg,
+    rgba(71, 73, 86, 1) 0%,
+    rgba(60, 63, 77, 1) 100%
+  );
+}
+
+
